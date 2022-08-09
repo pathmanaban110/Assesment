@@ -1,0 +1,47 @@
+span{
+    background-color: aqua;
+    color: black;
+}
+ 
+#first{
+    text-indent: 50px;
+    text-align: justify;
+    background-color: grey;
+    color: black;
+}
+#second{
+    text-indent: 50px;
+    text-align: justify;
+    background-color:#FC766AFF;
+    color:#5B84B1FF;
+}
+#third{
+    text-indent: 50px;
+    text-align: justify;
+    background-color:#00A4CCFF;
+    color: #F95700FF;
+}
+#four{
+    text-indent: 50px;
+    text-align: justify;
+    background-color: #ADEFD1FF;
+    color: #00203FFF;
+}
+#five{
+    text-indent: 50px;
+    text-align: justify;
+    background-color:#A2A2A1FF;
+    color:#195190FF;
+}
+#six{
+    text-indent: 50px;
+    text-align: justify;
+    background-color:#C7D3D4FF;
+    color: #603F83FF;
+}
+ 
+ 
+div ol{
+    background-color: skyblue;
+    color: blueviolet;
+}
