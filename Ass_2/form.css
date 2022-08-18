@@ -1,0 +1,32 @@
+body{
+    
+    font-family: sans-serif;
+    background-color:hsl(196, 6%, 61%);
+}
+
+
+#main{
+    border: 1px solid black;
+    margin: 50px;
+    margin-left: 40%;
+    width: 250px;
+    height: 365px;
+    background-color: rgb(32, 138, 102);
+   
+}
+form input{
+    padding-left: 10px;
+    
+}
+
+label{
+    padding-left: 10px;
+    padding: 10px;
+}
+
+#view{
+    margin-top: 7%;
+    margin-left: 30%;
+    text-align: center;   
+    border: 1px solid black;
+}
