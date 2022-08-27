@@ -1,0 +1,21 @@
+button{
+    padding: 1rem;
+}
+
+.print-int-class{
+    height: 2rem;
+    background-color: blueviolet;
+    border: 2px solid black;
+    color: blanchedalmond;
+    text-align: center;
+    padding-top:5px; 
+
+}
+.printclass{
+    height: 2rem;
+    background-color:rgb(31, 22, 155);
+    border: 2px solid firebrick;
+    color: whitesmoke;
+    text-align: center;
+    padding-top:6px ;
+}
