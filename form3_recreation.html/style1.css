@@ -1,0 +1,86 @@
+body{
+    box-sizing: border-box;
+    margin: 1rem;
+    font-family: cursive;
+    
+}
+
+.main_Box{
+    padding: 30px;
+    height: 95vh;
+    display: flex;
+    border:2px solid orange;
+}
+.box_1{
+    margin-right: 50px;
+    border: 2px solid  rgb(68, 250, 68) ;
+    width: 400px; 
+}
+.box_2{
+    margin-right: 50px;
+    border: 2px solid  rgb(68, 250, 68) ;
+    width: 300px;
+}
+.box_3{
+    margin-right: 50px;
+    border: 2px solid  rgb(68, 250, 68) ;
+    width: 400px;
+}
+.allbtn{
+    background-color: orange;
+    border: transparent;
+    border-radius: 4px;
+    height: 30px;
+    width: 70px;
+}
+.box_1{
+    padding: 1rem;
+}
+.box_2{
+    padding: 10px;
+}
+.box_3{
+    padding: 10px;
+}
+.txt{
+    border-color: orange;
+    height: 25px;
+    width: 250px;
+    
+}
+
+#txtarea{
+    width: 350px;
+   
+
+}
+#div1{
+    padding-top: 5px;
+    
+
+}
+#div2{
+    padding-top: 10px;
+}
+#div3{
+    padding-top: 10px;
+}
+#div4{
+    padding-top: 10px;
+}
+#div5{
+    padding-top: 10px;
+    
+}
+#txtbox{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#box_3input{
+    padding-top: 30px;
+}
+
+.lbl{
+    margin-bottom: 30px;
+}
